@@ -1,0 +1,5 @@
+       CBL OPT(2)
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID.    A31BR14L.
+       PROCEDURE DIVISION.
+           GOBACK.
